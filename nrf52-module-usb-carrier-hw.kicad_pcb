@@ -20121,6 +20121,14 @@
 		(uuid "849a64e5-97f1-491f-91ce-3d78e14ff626")
 	)
 	(segment
+		(start 90.932 96.7795)
+		(end 90.932 98.235)
+		(width 0.261112)
+		(layer "F.Cu")
+		(net 11)
+		(uuid "3c3e227c-8a7b-4223-ae4f-55367994c615")
+	)
+	(segment
 		(start 98.266 75.343)
 		(end 99.728 75.343)
 		(width 0.261112)
