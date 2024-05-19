@@ -4189,12 +4189,6 @@
 		(uuid "30c7fa19-18db-43a3-9cad-f07a610b5598")
 	)
 	(junction
-		(at 222.25 149.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3534e857-d6a3-4550-9b20-9a491c60a1b2")
-	)
-	(junction
 		(at 95.25 45.72)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4259,6 +4253,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c4c7be29-4e42-49d8-95a7-64f8d8f74372")
+	)
+	(junction
+		(at 222.25 147.32)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d20803c4-ab84-4c12-9434-fa218d54bb6a")
 	)
 	(junction
 		(at 30.48 90.17)
@@ -4838,16 +4838,6 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 149.86) (xy 222.25 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b97ebb4-c01d-48db-b6c0-5ea1d97a9977")
-	)
-	(wire
-		(pts
 			(xy 184.15 138.43) (xy 185.42 138.43)
 		)
 		(stroke
@@ -4918,7 +4908,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 146.05) (xy 222.25 149.86)
+			(xy 222.25 146.05) (xy 222.25 147.32)
 		)
 		(stroke
 			(width 0)
@@ -4938,7 +4928,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 130.81) (xy 229.87 135.89)
+			(xy 229.87 132.08) (xy 229.87 135.89)
 		)
 		(stroke
 			(width 0)
@@ -5035,6 +5025,16 @@
 			(type default)
 		)
 		(uuid "5121bec9-116e-4d57-98fe-e1e8d7ee4898")
+	)
+	(wire
+		(pts
+			(xy 222.25 147.32) (xy 222.25 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "527950c6-7571-42c4-bb01-d866816a4c13")
 	)
 	(wire
 		(pts
@@ -5338,16 +5338,6 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 138.43) (xy 231.14 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "785db686-880a-4d8f-a9e9-f025e3908e16")
-	)
-	(wire
-		(pts
 			(xy 85.09 68.58) (xy 85.09 69.85)
 		)
 		(stroke
@@ -5558,16 +5548,6 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 138.43) (xy 231.14 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "85f7d542-3836-4519-ac64-b5af0181d344")
-	)
-	(wire
-		(pts
 			(xy 81.28 67.31) (xy 73.66 67.31)
 		)
 		(stroke
@@ -5578,17 +5558,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 133.35) (xy 240.03 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8b0f5e90-f643-4e1b-8ade-af104140c625")
-	)
-	(wire
-		(pts
-			(xy 248.92 142.24) (xy 248.92 140.97)
+			(xy 248.92 139.7) (xy 248.92 138.43)
 		)
 		(stroke
 			(width 0)
@@ -5608,7 +5578,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 149.86) (xy 248.92 149.86)
+			(xy 222.25 147.32) (xy 248.92 147.32)
 		)
 		(stroke
 			(width 0)
@@ -5628,7 +5598,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 147.32) (xy 248.92 149.86)
+			(xy 248.92 144.78) (xy 248.92 147.32)
 		)
 		(stroke
 			(width 0)
@@ -5738,7 +5708,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 130.81) (xy 229.87 130.81)
+			(xy 238.76 132.08) (xy 229.87 132.08)
 		)
 		(stroke
 			(width 0)
@@ -5888,7 +5858,7 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 140.97) (xy 243.84 140.97)
+			(xy 248.92 138.43) (xy 243.84 138.43)
 		)
 		(stroke
 			(width 0)
@@ -5985,6 +5955,16 @@
 			(type default)
 		)
 		(uuid "bba1122f-bffc-483d-9339-9515992ab5d3")
+	)
+	(wire
+		(pts
+			(xy 220.98 138.43) (xy 238.76 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc4f7b94-1bac-43a2-8a02-d295e4c541f3")
 	)
 	(wire
 		(pts
@@ -6238,6 +6218,16 @@
 	)
 	(wire
 		(pts
+			(xy 220.98 140.97) (xy 238.76 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbf488af-4d00-4d3d-9ca1-4423e513088c")
+	)
+	(wire
+		(pts
 			(xy 220.98 107.95) (xy 251.46 107.95)
 		)
 		(stroke
@@ -6295,16 +6285,6 @@
 			(type default)
 		)
 		(uuid "e1994555-604a-4e1e-805d-eb00877fe765")
-	)
-	(wire
-		(pts
-			(xy 220.98 140.97) (xy 238.76 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e24858de-57d8-4593-abce-b151fa1cf749")
 	)
 	(wire
 		(pts
@@ -6551,7 +6531,7 @@
 		(uuid "a5d78dc6-569e-487e-a194-893dc4607a1d")
 	)
 	(label "DEBUG_LED_C"
-		(at 245.11 140.97 0)
+		(at 245.11 138.43 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6593,17 +6573,6 @@
 			(justify left bottom)
 		)
 		(uuid "3cf94629-47e0-45a9-95e8-802568d5c38e")
-	)
-	(label "UART_TX"
-		(at 240.03 133.35 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4edcbbd5-be00-468c-9578-d34f07cea922")
 	)
 	(label "SWDIO"
 		(at 73.66 156.21 180)
@@ -6650,7 +6619,7 @@
 		(uuid "6a788363-dda1-42da-b3e2-c40407501cf5")
 	)
 	(label "DEBUG_LED_A"
-		(at 224.79 140.97 0)
+		(at 224.79 138.43 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6738,7 +6707,7 @@
 		(uuid "acdf735d-4471-4038-8b85-7dd4f56472b3")
 	)
 	(label "UART_RX"
-		(at 240.03 130.81 180)
+		(at 238.76 132.08 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6780,6 +6749,17 @@
 			(justify left bottom)
 		)
 		(uuid "e1f56690-89e1-497f-a70b-f71365bfb9a7")
+	)
+	(label "UART_TX"
+		(at 238.76 140.97 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "eed9c351-4ff4-4352-8cf2-478791f95232")
 	)
 	(label "UART_TX"
 		(at 123.19 85.09 180)
@@ -8561,7 +8541,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_Small_Filled")
-		(at 241.3 140.97 180)
+		(at 241.3 138.43 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8569,7 +8549,7 @@
 		(dnp no)
 		(uuid "8b47a605-d193-4bb5-ba77-3ef97572b24e")
 		(property "Reference" "D2"
-			(at 241.3 144.272 0)
+			(at 241.3 141.732 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8577,7 +8557,7 @@
 			)
 		)
 		(property "Value" "19-217/GHC-YR1S2/6T"
-			(at 244.094 137.668 0)
+			(at 244.094 135.128 0)
 			(effects
 				(font
 					(size 1.143 1.143)
@@ -8585,7 +8565,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 241.3 140.97 90)
+			(at 241.3 138.43 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8594,7 +8574,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2207051802_Everlight-Elec-19-217-GHC-YR1S2-6T_C2986059.pdf"
-			(at 241.3 140.97 90)
+			(at 241.3 138.43 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8603,7 +8583,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 241.3 140.97 0)
+			(at 241.3 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8612,7 +8592,7 @@
 			)
 		)
 		(property "LCSC Part #" "C2986059"
-			(at 241.3 140.97 0)
+			(at 241.3 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8621,7 +8601,7 @@
 			)
 		)
 		(property "Manufacturer" "Everlight Electronics Co Ltd"
-			(at 241.3 140.97 0)
+			(at 241.3 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8630,7 +8610,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "19-217/GHC-YR1S2/6T"
-			(at 241.3 140.97 0)
+			(at 241.3 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10863,7 +10843,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 248.92 144.78 180)
+		(at 248.92 142.24 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10872,7 +10852,7 @@
 		(fields_autoplaced yes)
 		(uuid "e0656ad1-2c98-47e2-a220-9effc5bd15a7")
 		(property "Reference" "R4"
-			(at 251.46 143.5099 0)
+			(at 251.46 140.9699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10881,7 +10861,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 251.46 146.0499 0)
+			(at 251.46 143.5099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10890,7 +10870,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 248.92 144.78 0)
+			(at 248.92 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10899,7 +10879,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf"
-			(at 248.92 144.78 0)
+			(at 248.92 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10908,7 +10888,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 248.92 144.78 0)
+			(at 248.92 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10917,7 +10897,7 @@
 			)
 		)
 		(property "Manufacturer" "UNI-ROYAL"
-			(at 248.92 144.78 0)
+			(at 248.92 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10926,7 +10906,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "0603WAF1001T5E"
-			(at 248.92 144.78 0)
+			(at 248.92 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10935,7 +10915,7 @@
 			)
 		)
 		(property "LCSC Part #" "C21190"
-			(at 248.92 144.78 0)
+			(at 248.92 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
