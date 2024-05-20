@@ -7255,6 +7255,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 81.28 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 81.28 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "05cb6bb3-afb3-42e2-bf0b-e0b043371e22")
 		)
@@ -7317,6 +7335,24 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 152.4 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 152.4 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
 			(at 152.4 163.83 0)
 			(effects
 				(font
@@ -7411,6 +7447,24 @@
 			)
 		)
 		(property "LCSC Part #" "C1525"
+			(at 147.32 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 147.32 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
 			(at 147.32 105.41 0)
 			(effects
 				(font
@@ -7579,6 +7633,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 133.35 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 133.35 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1984c475-a3dc-47a6-8f73-f9fb2b2a328f")
 		)
@@ -7649,7 +7721,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" " Samsung Electro-Mechanics"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 240.03 83.82 0)
 			(effects
 				(font
@@ -7668,6 +7740,24 @@
 			)
 		)
 		(property "LCSC Part #" "C19666"
+			(at 240.03 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 240.03 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
 			(at 240.03 83.82 0)
 			(effects
 				(font
@@ -7738,6 +7828,24 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
+			(at 130.81 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 130.81 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
 			(at 130.81 163.83 0)
 			(effects
 				(font
@@ -7975,6 +8083,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 109.22 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 109.22 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "15559e05-1796-4104-81d8-758208a602ae")
 		)
@@ -8048,7 +8174,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" " Samsung Electro-Mechanics"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 95.25 49.53 0)
 			(effects
 				(font
@@ -8067,6 +8193,24 @@
 			)
 		)
 		(property "LCSC Part #" "C19666"
+			(at 95.25 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 95.25 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
 			(at 95.25 49.53 0)
 			(effects
 				(font
@@ -8172,6 +8316,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 140.97 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 140.97 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f5da5ee7-1ad6-45f8-83b1-927cd02c9e4f")
 		)
@@ -8269,6 +8431,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 135.89 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 135.89 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "26d1104c-2d74-4689-863a-2b08392db02e")
 		)
@@ -8331,6 +8511,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 151.13 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 151.13 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
 			(at 151.13 185.42 0)
 			(effects
 				(font
@@ -8403,7 +8601,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" " Samsung Electro-Mechanics"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 158.75 105.41 0)
 			(effects
 				(font
@@ -8422,6 +8620,24 @@
 			)
 		)
 		(property "LCSC Part #" "C19666"
+			(at 158.75 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 158.75 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
 			(at 158.75 105.41 0)
 			(effects
 				(font
@@ -8656,6 +8872,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 241.3 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 241.3 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc8cdf35-4f15-49fd-853e-f3f2550adce4")
 		)
@@ -8813,6 +9047,24 @@
 			)
 		)
 		(property "LCSC Part #" "C1525"
+			(at 228.6 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 228.6 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
 			(at 228.6 83.82 0)
 			(effects
 				(font
@@ -9095,6 +9347,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 132.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 132.08 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "nrf52-module-usb-carrier-hw"
 				(path "/7cae77ef-15c7-4fc8-9806-3b507e511299/3a1b227b-4526-407e-8723-8db2dc6822f1"
@@ -9178,6 +9448,24 @@
 			)
 		)
 		(property "LCSC Part #" "C1525"
+			(at 85.09 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 85.09 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
 			(at 85.09 72.39 0)
 			(effects
 				(font
@@ -9349,6 +9637,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 39.37 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 39.37 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb5f3d7a-4dd7-41cc-b07f-620a3e7390ba")
 		)
@@ -9437,6 +9743,24 @@
 			)
 		)
 		(property "LCSC Part #" "C1525"
+			(at 125.73 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 125.73 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
 			(at 125.73 105.41 0)
 			(effects
 				(font
@@ -9599,6 +9923,24 @@
 			)
 		)
 		(property "LCSC Part #" "C23186"
+			(at 59.69 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 59.69 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
 			(at 59.69 55.88 0)
 			(effects
 				(font
@@ -9827,6 +10169,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 105.41 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 105.41 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "82ea6449-d665-44e4-871f-11c1277b34dd")
 		)
@@ -10006,6 +10366,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 30.48 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 30.48 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A6"
 			(uuid "00404736-e9f1-493f-9745-82fab539ad43")
 		)
@@ -10142,6 +10520,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 68.58 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 68.58 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c1db8688-ba44-47a8-8d24-16e7423838d9")
 		)
@@ -10224,7 +10620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" " Samsung Electro-Mechanics"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 119.38 49.53 0)
 			(effects
 				(font
@@ -10243,6 +10639,24 @@
 			)
 		)
 		(property "LCSC Part #" "C19666"
+			(at 119.38 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 119.38 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
 			(at 119.38 49.53 0)
 			(effects
 				(font
@@ -10548,6 +10962,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 52.07 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 52.07 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "818bcbb4-00ae-49ed-a161-83a12602a101")
 		)
@@ -10637,6 +11069,24 @@
 			)
 		)
 		(property "LCSC Part #" "C1525"
+			(at 96.52 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 96.52 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
 			(at 96.52 72.39 0)
 			(effects
 				(font
@@ -10743,6 +11193,24 @@
 				(hide yes)
 			)
 		)
+		(property "MANUFACTURER" ""
+			(at 54.61 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
+			(at 54.61 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "5cb9960e-04b9-4212-a8eb-75a36d15b0bd")
 		)
@@ -10837,7 +11305,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" " Samsung Electro-Mechanics"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 86.36 49.53 0)
 			(effects
 				(font
@@ -10856,6 +11324,24 @@
 			)
 		)
 		(property "LCSC Part #" "C19666"
+			(at 86.36 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 86.36 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
 			(at 86.36 49.53 0)
 			(effects
 				(font
@@ -10953,6 +11439,24 @@
 			)
 		)
 		(property "LCSC Part #" "C21190"
+			(at 248.92 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 248.92 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
 			(at 248.92 142.24 0)
 			(effects
 				(font
@@ -11216,7 +11720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2204121100_Chengdu-Ebyte-Elec-Tech-E73-2G4M04S1B_C411306.pdf"
 			(at 203.2 113.03 0)
 			(effects
 				(font
@@ -11354,7 +11858,25 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS Part #" "C411306"
+		(property "LCSC Part #" "C411306"
+			(at 203.2 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 203.2 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
 			(at 203.2 113.03 0)
 			(effects
 				(font
@@ -11559,7 +12081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" " Samsung Electro-Mechanics"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 71.12 49.53 0)
 			(effects
 				(font
@@ -11578,6 +12100,24 @@
 			)
 		)
 		(property "LCSC Part #" "C19666"
+			(at 71.12 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" ""
+			(at 71.12 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" ""
 			(at 71.12 49.53 0)
 			(effects
 				(font
