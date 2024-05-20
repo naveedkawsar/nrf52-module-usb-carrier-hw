@@ -2247,10 +2247,6 @@
 		(uuid "f7b97711-6b4d-47aa-96ff-6615aea3831f")
 	)
 	(no_connect
-		(at 111.76 111.76)
-		(uuid "0f599850-3c43-4c6d-9a5b-d51f77fd48d8")
-	)
-	(no_connect
 		(at 107.95 46.99)
 		(uuid "0f59d7c4-20b8-4aec-af19-b82d44852ff6")
 	)
@@ -3490,7 +3486,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 111.76) (xy 111.76 111.76)
+			(xy 100.33 111.76) (xy 101.6 111.76)
 		)
 		(stroke
 			(width 0)
@@ -4155,17 +4151,6 @@
 		)
 		(uuid "2fde8ad1-6845-4ffa-a45d-9f0730bb21b9")
 	)
-	(label "MAG_INT"
-		(at 111.76 111.76 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "45694719-122c-45c9-a9b6-54dde3da5b64")
-	)
 	(label "IO7_SW_HIGH"
 		(at 205.74 148.59 0)
 		(fields_autoplaced yes)
@@ -4547,6 +4532,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MAG_INT"
+		(shape input)
+		(at 101.6 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e4a58a76-d871-4dc7-ac67-fe9a232cc78e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 112.2657 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
